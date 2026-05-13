@@ -1,2 +1,2 @@
 # AT-Propulsion-Laboratories
-# By: Taylor Yi and Aidan Frondozo
+# Taylor Yi and Aidan Frondozo Joint Repository for EE446
